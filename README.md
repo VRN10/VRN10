@@ -8,7 +8,8 @@
 
 ## Sobre mi
 
-- 🧑‍🏫 Web developer
+- Web developer
+- I'm looking forward to collaborate on open source projects.
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
