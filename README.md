@@ -12,8 +12,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- Web developer
-- I'm looking forward to collaborate on open source projects.
+- Full Stack Web developer
+- I'm looking forward to collaborate on open source projects
+- I'm looking for my first job in the digital world
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
