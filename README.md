@@ -14,7 +14,6 @@
 
 - Full Stack Web developer
 - I'm looking forward to collaborate on open source projects
-- I'm looking for my first job in the digital world
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
